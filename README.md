@@ -1,4 +1,4 @@
-# sooo_goooood_menu
+# SoGood Menu
 
 A new Flutter project.
 
